@@ -4,4 +4,4 @@
  */	
 
 
-package com.kaonykk.gestordefinanzastutelado.exception;
+package com.kaonykk.financetutor.exception;

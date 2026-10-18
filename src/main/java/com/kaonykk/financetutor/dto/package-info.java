@@ -3,5 +3,5 @@
  * only the necessary information between layers.
  */
 
-package com.kaonykk.gestordefinanzastutelado.dto;
+package com.kaonykk.financetutor.dto;
 

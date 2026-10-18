@@ -4,5 +4,5 @@
  */
 
 
-package com.kaonykk.gestordefinanzastutelado.service;
+package com.kaonykk.financetutor.service;
 

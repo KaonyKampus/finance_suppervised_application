@@ -4,4 +4,4 @@
  */
 
 
-package com.kaonykk.gestordefinanzastutelado.util;
+package com.kaonykk.financetutor.util;

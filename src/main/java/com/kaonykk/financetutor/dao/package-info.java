@@ -3,5 +3,5 @@
  * service layer, and returns the JSP page that the user sees.
  */
 
-package com.kaonykk.gestordefinanzastutelado.dao;
+package com.kaonykk.financetutor.dao;
 

@@ -6,10 +6,10 @@
 
     <!-- Identidad del proyecto -->
     <groupId>com.kaonykk</groupId>
-    <artifactId>GestorDeFinanzasTutelado</artifactId>
+    <artifactId>FinanceTutorApp</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>GestorDeFinanzasTutelado-1.0-SNAPSHOT</name>
+    <name>FinanceTutorApp-1.0-SNAPSHOT</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -1,4 +1,4 @@
-package com.kaonykk.gestordefinanzastutelado;
+package com.kaonykk.financetutor;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;
